@@ -1,7 +1,7 @@
+
 void main() {
   String calificacion='B';
   switch(calificacion){
-  
     case 'A':
       print('Excelente, tienes 10');
       break;
